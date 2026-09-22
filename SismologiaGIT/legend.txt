@@ -1,0 +1,3 @@
+H 12p,Helvetica-Bold Tectonic features
+S 0.3c - 1.5p,blue - 0.7c Plate boundary
+S 0.3c - 1.5p,red - 0.7c Study region
